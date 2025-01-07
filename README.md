@@ -8,5 +8,5 @@ I am a fan of:  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=0xWelt&rank_icon=percentile&show_icons=true&show=reviews&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nickydusk&layout=compact&langs_count=10" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nickydusk&layout=compact&langs_count=10&hide=others" />
 </a>
