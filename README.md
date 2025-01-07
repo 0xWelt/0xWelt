@@ -1,45 +1,12 @@
 ### Hi there, it's 0xWelt 👋
 
-I'm a graduate student at Nanjing University, majoring in Artificial Intelligence.
+I'm a graduate from the School of Artificial Intelligence at Nanjing University. I've completed both my undergraduate and master's degrees in this field. My research interests lie in Reinforcement Learning and Large Language Models. Currently, I'm working at Moonshot.ai, focusing on Alignment research.
 
-Like many others in this profession, I enjoy writing code and improving the quality of life through AI-powered tools.
+I am a fan of:  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openai.svg" /> 
 
-I like things that have beautiful forms. Therefore, I'm always on the hunt for cool code styles and coding tools.
-
-I am also interested in making friends with people from all walks of life.
-
-Fan of:  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openai.svg" /> 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=0xWelt&show_icons=true&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xWelt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-### Current Status
-
-#### 🌱 Studying <!-- :seedling: -->
-
-- Multi-agent reinforcement learning
-- Human-AI interactions
-- Generative models
-
-
-#### 📘 Reading <!-- :blue_book: -->
-- Metabolic growth theory - Chen Ping
-
-#### 🎹 Piano Practice <!-- :music_keyboard: -->
-- Solitude - Ryuichi Sakamoto
-
-<!--
-**0xWelt/0xWelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xWelt&rank_icon=percentile&show_icons=true&show=reviews&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nickydusk&layout=compact&langs_count=10" />
+</a>
